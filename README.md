@@ -1,4 +1,4 @@
--NOTE-
+#NOTE
 All files are for CISC 351 Group Project
 For Midterm_RQ1.ipynnb is included the result of old RQ1
 For Final_RQs.ipynb is included the resiulf of new all RQs
